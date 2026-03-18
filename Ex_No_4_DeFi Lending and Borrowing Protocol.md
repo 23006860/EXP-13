@@ -75,13 +75,18 @@ contract DeFiLending {
 ```
 # Expected Output:
 Users can deposit ETH and earn interest.
+<img width="1137" height="598" alt="image" src="https://github.com/user-attachments/assets/6724840f-24f5-440d-b010-3206b26cb6a0" />
+
 
 
 Users can borrow ETH by providing collateral.
+<img width="1139" height="596" alt="image" src="https://github.com/user-attachments/assets/83ba6070-7460-4b68-bb40-6720e550d71a" />
+
 
 
 If collateral < 150% of borrowed amount, liquidators can seize the collateral.
 
+<img width="1134" height="604" alt="image" src="https://github.com/user-attachments/assets/5258966a-37ed-43ae-b20a-a36c254580b3" />
 
 
 # High-Level Overview:
@@ -94,4 +99,4 @@ Introduces risk management: overcollateralization and liquidation.
 Directly related to DeFi protocols like Aave and Compound.
 
 # RESULT : 
-
+Thus decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral is executed successfully.
